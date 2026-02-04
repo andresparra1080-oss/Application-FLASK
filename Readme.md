@@ -1,7 +1,5 @@
-
-
 # vista previa
-[!vista previa]("prueba.png")
+[!vista previa](prueba.png)
 
 # 1. Crear entorno virtual (solo una vez)
 python -m venv nombre_que_quieras
